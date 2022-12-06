@@ -124,11 +124,6 @@ Cовершить коммит, автоматически индексируя 
 
 Описание ДЗ
 добавить описание команд:
-git branch
-git branch <branch name>
-git branch -d <branch name>
-
-git checkout <branch name>
 
 git log --graph
 git log --all --oneline --graph
